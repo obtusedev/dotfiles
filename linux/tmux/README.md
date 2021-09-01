@@ -5,7 +5,7 @@ Note: Your custom prefix is `CTRL + a` and not the default `CTRL + b`.
 
 ## Installation instructions for tmux-resurrection
 
-tmux-resurrection helps save you tmux sessions.  
+tmux-resurrection helps save your tmux sessions.  
 To use `prefix + CTRL - s` to save `prefix + CTRL - r` to restore.  
 > prefix by default is CTRL + b  
 > NOTE THAT YOUR prefix is CTRL + a
