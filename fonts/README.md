@@ -1,12 +1,13 @@
 # Programming fonts  
 
-> Theme is Github Dark (Visual Studio Code)  
-> Font size is 22
+> Theme is One Dark  
+Screenshots made with [Carbon](https://carbon.now.sh)
 
 [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)  
 Rating: 8.5  
 Very clean looking font. The name Anonymous Pro is also cool.  
 FREE
+![Anonymous-Pro](screenshots/Anonymous-Pro.png)
 
 [Arial](https://docs.microsoft.com/en-us/typography/font-list/arial)  
 Rating: 8.5  
@@ -47,11 +48,13 @@ FREE
 Rating: 9  
 The most starred font on Github. Solid choice.  
 FREE
+![Fira-Code](screenshots/Fira-Code.png)
 
 [Hack](https://github.com/source-foundry/Hack)  
 Rating: 9  
 The second most starred font on Github. Close competitor to Fira Code.  
 FREE
+![Hack](screenshots/Hack.png)
 
 [Inconsolata](https://github.com/googlefonts/inconsolata)  
 Rating: N/A  
@@ -65,6 +68,7 @@ FREE
 Rating: 8  
 Decent font. Default on all Jetbrain IDE's.  
 FREE
+![Jetbrains-Mono](screenshots/Jetbrains-Mono.png)
 
 [Liberation Mono](https://www.fontsquirrel.com/fonts/liberation-mono)  
 Rating: N/A  
@@ -102,3 +106,4 @@ FREE
 Rating: 8  
 Very recognizable font if you have downloaded Ubuntu at some point.  
 FREE
+![Ubuntu-Mono](screenshots/Ubuntu-Mono.png)
