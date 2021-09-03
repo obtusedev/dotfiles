@@ -1,0 +1,23 @@
+# Seperate emails for Github and Gitlab accounts
+# Name stays the same
+[user]
+	name = obtusedev
+[includeIf "gitdir:~/Github/"]
+  path = ~/.gitconfig-gh
+[includeIf "gitdir:~/Gitlab/"]
+  path = ~/.gitconfig-gl
+[color]
+	ui = auto
+[auto]
+	crlf = false # core.autocrlf in the docs
+[core]
+	editor = code --wait # VS Code for git commits
+[filter "lfs"]
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+[init]
+	defaultBranch = master
+[commit]
+	template = /home/ani/.gitmessage
