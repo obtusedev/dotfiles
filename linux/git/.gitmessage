@@ -1,0 +1,16 @@
+
+
+
+
+
+# Title summarize imperative(like a command) add not added, capialize no period
+# For imperative say "If applied, this commit will..."
+# Try to stay under 50 char for git oneline.    #
+
+# blank line between body and title
+# Tags for title: fix, feature, refector, docs, style, chore, test, build, ci
+# Use whatever convention your team is using and be consistant
+# Body explain *what* and *why* not how(your code will explain this)
+# Include proper attributions
+# Co-author name <email>
+# Reviewed by name <email>
