@@ -19,6 +19,7 @@ FREE?
 Rating: 8  
 Solid font. Very "soft" looking.  
 FREE
+![Cascadia Code](screenshots/Cascadia-Code.png)
 
 [Comic Code](https://tosche.net/fonts/comic-code)  
 Rating: N/A  
@@ -29,11 +30,13 @@ PAID
 Rating: 9.5  
 This is a fork of Comic Shanns and it is currently my favorite font. Only complaint is the capital M and W.  
 FREE
+![Comic Mono](screenshots/Comic-Mono.png)
 
 [Comic Shanns](https://github.com/shannpersand/comic-shanns)  
 Rating: 9  
 This font is one of my favorite variations on Comic Sans.  
 FREE
+![Comic Shanns](screenshots/Comic-Shanns.png)
 
 [Consolas Mono](https://docs.microsoft.com/en-us/typography/font-list/consolas)  
 Rating: N/A  
@@ -43,6 +46,7 @@ FREE?
 [DM Mono](https://github.com/googlefonts/dm-mono)  
 Rating:  N/A  
 FREE
+![DM-Mono](screenshots/DM-Mono.png)
 
 [Fira Code](https://github.com/tonsky/FiraCode)  
 Rating: 9  
@@ -59,10 +63,12 @@ FREE
 [Inconsolata](https://github.com/googlefonts/inconsolata)  
 Rating: N/A  
 FREE
+![Inconsolata](screenshots/Inconsolata.png)
 
 [Inter](https://github.com/rsms/inter/)  
 Rating: N/A  
 FREE
+![Inter](screenshots/Inter.png)
 
 [Jetbrains Mono](https://github.com/JetBrains/JetBrainsMono)  
 Rating: 8  
@@ -73,6 +79,7 @@ FREE
 [Liberation Mono](https://www.fontsquirrel.com/fonts/liberation-mono)  
 Rating: N/A  
 FREE
+![Liberation-Mono](screenshots/Liberation-Mono.png)
 
 [Monolisa](https://www.monolisa.dev/)  
 Rating: N/A  
@@ -86,21 +93,32 @@ PAID
 Rating: 9.5  
 This was the font I used before switching to Comic Mono.  
 FREE
+![PT-Mono](screenshots/PT-Mono.png)
 
 [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono)  
 Rating: 9  
 Clean font. Very googly.  
 FREE
+![Roboto-Mono](screenshots/Roboto-Mono.png)
 
 [SF Mono](https://developer.apple.com/fonts/)  
 Rating: 9.5  
 This is the font on Apple devices.  
 This font looks best on a high resolution monitor otherwise it is a bit blurry.  
 FREE
+![SF-Mono](screenshots/SF-Mono.png)
+
+[SF Mono Semibold](https://developer.apple.com/fonts/)
+Rating: 9.5
+This is similar to SF Mono but I've been really liking this font for coding.  
+The extra bold makes things looker nicer.  
+FREE
+![SF-Mono-Semibold](screenshots/SF-Mono-Semibold.png)
 
 [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)  
 Rating: N/A  
 FREE
+![Source-Code-Pro](screenshots/Source-Code-Pro.png)
 
 [Ubuntu Mono](https://fonts.adobe.com/fonts/ubuntu-mono/details/i7)  
 Rating: 8  
