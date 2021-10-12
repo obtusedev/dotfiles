@@ -1,4 +1,4 @@
-# Programming fonts  
+# Programming fonts
 
 > Theme is One Dark  
 Screenshots made with [Carbon](https://carbon.now.sh)
@@ -20,6 +20,12 @@ Rating: 8
 Solid font. Very "soft" looking.  
 FREE
 ![Cascadia Code](screenshots/Cascadia-Code.png)
+
+[Cascadia Mono Semilight](https://github.com/microsoft/cascadia-code)  
+Rating: 9.5  
+Really good font. Been using this more over Comic Mono as this looks better at smaller font sizes.  
+FREE
+![Cascadia Mono Semilight](screenshots/Cascadia-Mono-Semilight.png)
 
 [Comic Code](https://tosche.net/fonts/comic-code)  
 Rating: N/A  
