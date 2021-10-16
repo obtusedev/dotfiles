@@ -1,7 +1,8 @@
 # Programming fonts
 
-> Theme is One Dark  
-Screenshots made with [Carbon](https://carbon.now.sh)
+### Theme is One Dark  
+### Screenshots made with [Carbon](https://carbon.now.sh)
+<br>
 
 [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)  
 Rating: 8.5  
@@ -83,13 +84,19 @@ FREE
 ![Jetbrains-Mono](screenshots/Jetbrains-Mono.png)
 
 [Liberation Mono](https://www.fontsquirrel.com/fonts/liberation-mono)  
-Rating: N/A  
+Rating: 8.5
+Very clean font. Spent a while looking for it after seeing it in the Sublime Text popup.  
 FREE
 ![Liberation-Mono](screenshots/Liberation-Mono.png)
 
 [Monolisa](https://www.monolisa.dev/)  
 Rating: N/A  
 PAID
+
+[Menlo](https://en.wikipedia.org/wiki/Menlo_(typeface))  
+Rating: 8  
+FREE?  
+I think this is only on macOS since I can't find a download link for it.
 
 [Operator Mono](https://www.typography.com/blog/introducing-operator)  
 Rating: N/A  
