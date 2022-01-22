@@ -1,5 +1,11 @@
 # Programming fonts
 
+## Useful Resources  
+Use [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) to patched fonts for icons.  
+Use [Font Manger](https://github.com/FontManager/font-manager) for browsing and managing fonts.  
+https://www.codingfont.com/  
+https://www.programmingfonts.org/  
+
 ### Theme is One Dark  
 ### Screenshots made with [Carbon](https://carbon.now.sh)
 <br>
@@ -15,6 +21,17 @@ Rating: 8.5
 Surprisingly clean and easy to read font. Comes standard on a lot of devices but I was sleeping on this font.  
 I couldn't find a way to install this but I found it on my Ubuntu pc.  
 FREE?
+
+[B612 Mono](https://fonts.google.com/specimen/B612+Mono)  
+Rating: 9  
+Nice font. Parenthesis are growing on me.  
+FREE
+![B612 Mono](screenshots/B612-Mono.png)
+
+[Cartograph CF]()  
+Rating: N/A  
+FREE  
+![Cartograph CF]()
 
 [Cascadia Code](https://github.com/microsoft/cascadia-code)  
 Rating: 8  
@@ -50,6 +67,12 @@ Rating: N/A
 Comes default with windows and used in Notepad, Office, Visual Studio. I don't know if you can download this.    
 FREE?
 
+[Cousine](https://fonts.google.com/specimen/Cousine)  
+Rating: 8.5  
+Solid font.  
+FREE  
+![Cousine](screenshots/Cousine.png)
+
 [DM Mono](https://github.com/googlefonts/dm-mono)  
 Rating:  N/A  
 FREE
@@ -72,14 +95,19 @@ Rating: N/A
 FREE
 ![Inconsolata](screenshots/Inconsolata.png)
 
+[Input Mono]()  
+Rating: N/A  
+FREE  
+![Input Mono]()
+
 [Inter](https://github.com/rsms/inter/)  
 Rating: N/A  
 FREE
 ![Inter](screenshots/Inter.png)
 
 [Jetbrains Mono](https://github.com/JetBrains/JetBrainsMono)  
-Rating: 8  
-Decent font. Default on all Jetbrain IDE's.  
+Rating: 8.5  
+Good font. Default on all Jetbrain IDE's.  
 FREE
 ![Jetbrains-Mono](screenshots/Jetbrains-Mono.png)
 
@@ -89,6 +117,17 @@ Very clean font. Spent a while looking for it after seeing it in the Sublime Tex
 FREE
 ![Liberation-Mono](screenshots/Liberation-Mono.png)
 
+[Monaco]()  
+Rating: N/A  
+FREE
+![Monaco]()
+
+[Monofur](https://www.dafont.com/monofur.font)
+Rating: 7.5  
+Decent font but a little thin. Wish it had a thicker variant.  
+FREE
+![Monofur](screenshots/Monofur.png)
+
 [Monolisa](https://www.monolisa.dev/)  
 Rating: N/A  
 PAID
@@ -96,11 +135,18 @@ PAID
 [Menlo](https://en.wikipedia.org/wiki/Menlo_(typeface))  
 Rating: 8  
 FREE?  
-I think this is only on macOS since I can't find a download link for it.
+You can find the download link with a quick search.  
+FREE?  
+![Menlo](screenshots/Menlo.png)
 
 [Operator Mono](https://www.typography.com/blog/introducing-operator)  
 Rating: N/A  
 PAID  
+
+[Overpass Mono](https://fonts.google.com/specimen/Overpass+Mono)  
+Rating: 8  
+FREE  
+![Overpass Mono](screenshots/Overpass-Mono.png)
 
 [PT Mono](https://fonts.adobe.com/fonts/pt-mono)  
 Rating: 9.5  
