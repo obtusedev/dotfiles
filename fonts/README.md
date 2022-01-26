@@ -139,6 +139,13 @@ You can find the download link with a quick search.
 FREE?  
 ![Menlo](screenshots/Menlo.png)
 
+[Noto Sans Mono](https://fonts.google.com/noto/specimen/Noto+Sans+Mono)
+Rating: 9  
+FREE  
+I like most of the fonts in this [family](https://fonts.google.com/noto/fonts)
+but this is the one I've used the most.  
+![Noto Sans Mono](screenshots/NotoSans-Mono.png)
+
 [Operator Mono](https://www.typography.com/blog/introducing-operator)  
 Rating: N/A  
 PAID  
