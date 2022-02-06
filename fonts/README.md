@@ -117,10 +117,14 @@ Very clean font. Spent a while looking for it after seeing it in the Sublime Tex
 FREE
 ![Liberation-Mono](screenshots/Liberation-Mono.png)
 
+[Magnetic Mono](https://www.myfonts.com/fonts/mostardesign/magnetic-pro/)  
+Rating: 8.5  
+Nice wonky font.  
+PAID  
+
 [Monaco]()  
 Rating: N/A  
-FREE
-![Monaco]()
+FREE  
 
 [Monofur](https://www.dafont.com/monofur.font)
 Rating: 7.5  
@@ -191,3 +195,9 @@ Rating: 8
 Very recognizable font if you have downloaded Ubuntu at some point.  
 FREE
 ![Ubuntu-Mono](screenshots/Ubuntu-Mono.png)
+
+[Victor Mono](https://github.com/rubjo/victor-mono)  
+Rating: 8  
+Nice font. Semibold is my favorite.  
+FREE  
+![Victor-Mono](screenshots/Victor-Mono-Semibold.png)
