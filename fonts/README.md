@@ -10,6 +10,10 @@ https://www.programmingfonts.org/
 ### Screenshots made with [Carbon](https://carbon.now.sh)
 <br>
 
+[ABCSans](https://www.cufonfonts.com/font/abcsans)  
+Rating: 8.5  
+FREE
+
 [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)  
 Rating: 8.5  
 Very clean looking font. The name Anonymous Pro is also cool.  
@@ -28,10 +32,10 @@ Nice font. Parenthesis are growing on me.
 FREE
 ![B612 Mono](screenshots/B612-Mono.png)
 
-[Cartograph CF]()  
+[Cartograph CF](https://connary.com/cartograph.html)  
 Rating: N/A  
-FREE  
-![Cartograph CF]()
+PAID  
+![Cartograph-CF]()
 
 [Cascadia Code](https://github.com/microsoft/cascadia-code)  
 Rating: 8  
@@ -44,6 +48,11 @@ Rating: 9.5
 Really good font. Been using this more over Comic Mono as this looks better at smaller font sizes.  
 FREE
 ![Cascadia Mono Semilight](screenshots/Cascadia-Mono-Semilight.png)
+
+[CMU Typewriter Text](https://www.cufonfonts.com/font/cmu-typewriter-text)  
+Rating: 8.5  
+FREE  
+![CMU-Typewriter-Text]()
 
 [Comic Code](https://tosche.net/fonts/comic-code)  
 Rating: N/A  
@@ -78,6 +87,11 @@ Rating:  N/A
 FREE
 ![DM-Mono](screenshots/DM-Mono.png)
 
+[Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans)
+Rating: 9  
+FREE  
+![Fantasque-Sans-Mono]()
+
 [Fira Code](https://github.com/tonsky/FiraCode)  
 Rating: 9  
 The most starred font on Github. Solid choice.  
@@ -95,7 +109,7 @@ Rating: N/A
 FREE
 ![Inconsolata](screenshots/Inconsolata.png)
 
-[Input Mono]()  
+[Input Mono](https://input.djr.com/)  
 Rating: N/A  
 FREE  
 ![Input Mono]()
@@ -122,7 +136,17 @@ Rating: 8.5
 Nice wonky font.  
 PAID  
 
-[Monaco]()  
+[Manrope](https://fonts.google.com/specimen/Manrope)  
+Rating: 8  
+Nice looking web font. Not so much for programming.  
+FREE  
+
+[Merriweather](https://fonts.google.com/specimen/Merriweather)  
+Rating: N/A  
+FREE  
+
+
+[Monaco](https://www.cufonfonts.com/font/monaco)  
 Rating: N/A  
 FREE  
 
@@ -148,7 +172,7 @@ Rating: 9
 FREE  
 I like most of the fonts in this [family](https://fonts.google.com/noto/fonts)
 but this is the one I've used the most.  
-![Noto Sans Mono](screenshots/NotoSans-Mono.png)
+![Noto-Sans-Mono](screenshots/NotoSans-Mono.png)
 
 [Operator Mono](https://www.typography.com/blog/introducing-operator)  
 Rating: N/A  
@@ -165,11 +189,27 @@ This was the font I used before switching to Comic Mono.
 FREE
 ![PT-Mono](screenshots/PT-Mono.png)
 
+[Public Sans](https://fonts.google.com/specimen/Public+Sans)  
+Rating:  
+FREE  
+![]()
+
 [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono)  
 Rating: 9  
 Clean font. Very googly.  
 FREE
 ![Roboto-Mono](screenshots/Roboto-Mono.png)
+
+[Readex Pro](https://fonts.google.com/specimen/Readex+Pro)  
+Rating:  
+FREE  
+![]()
+
+[Rec Mono](https://www.recursive.design/)  
+Rating: 9  
+Similar to the comic-* family fonts. Semicasual might be the best.  
+FREE  
+![]()
 
 [SF Mono](https://developer.apple.com/fonts/)  
 Rating: 9.5  
@@ -185,10 +225,25 @@ The extra bold makes things looker nicer.
 FREE
 ![SF-Mono-Semibold](screenshots/SF-Mono-Semibold.png)
 
+[Share Tech Mono](https://fonts.google.com/specimen/Share+Tech+Mono)  
+Rating:  
+FREE
+!
+
 [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)  
 Rating: N/A  
 FREE
 ![Source-Code-Pro](screenshots/Source-Code-Pro.png)
+
+[Space Grotesk](https://fonts.google.com/specimen/Space+Grotesk)  
+Rating: 8.5  
+Nice looking web font.  
+FREE  
+![Space-Grotesk]()
+
+[Space Mono](https://fonts.google.com/specimen/Space+Mono)  
+
+[Syne Mono](https://fonts.google.com/specimen/Syne+Mono)
 
 [Ubuntu Mono](https://fonts.adobe.com/fonts/ubuntu-mono/details/i7)  
 Rating: 8  
@@ -197,7 +252,7 @@ FREE
 ![Ubuntu-Mono](screenshots/Ubuntu-Mono.png)
 
 [Victor Mono](https://github.com/rubjo/victor-mono)  
-Rating: 8  
+Rating: 9  
 Nice font. Semibold is my favorite.  
 FREE  
-![Victor-Mono](screenshots/Victor-Mono-Semibold.png)
+![Victor-Mono-Semibold](screenshots/Victor-Mono-Semibold.png)
