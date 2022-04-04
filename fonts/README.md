@@ -5,6 +5,20 @@ Use [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) to patched fonts for i
 Use [Font Manger](https://github.com/FontManager/font-manager) for browsing and managing fonts.  
 https://www.codingfont.com/  
 https://www.programmingfonts.org/  
+reddit.com/r/identifythisfont/
+https://github.com/chrisbull/font-collection
+
+TODO:
+Arvo
+Josefin Slab
+Zen Antique Soft
+Zen Kaku Gothic New
+Zen Maru Gothic
+Zen Antique
+Zen Old Mincho
+Montagu Slab
+Yuji Boku
+IMB Plex Sans
 
 ### Theme is One Dark  
 ### Screenshots made with [Carbon](https://carbon.now.sh)
@@ -13,6 +27,12 @@ https://www.programmingfonts.org/
 [ABCSans](https://www.cufonfonts.com/font/abcsans)  
 Rating: 8.5  
 FREE
+
+[Aktiv Grotesk](https://fonts.adobe.com/fonts/aktiv-grotesk)  
+Rating: null  
+null  
+null  
+![]()
 
 [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)  
 Rating: 8.5  
@@ -26,11 +46,23 @@ Surprisingly clean and easy to read font. Comes standard on a lot of devices but
 I couldn't find a way to install this but I found it on my Ubuntu pc.  
 FREE?
 
+[Averta CY Light]()  
+Rating: null  
+null  
+null  
+![]()
+
 [B612 Mono](https://fonts.google.com/specimen/B612+Mono)  
 Rating: 9  
 Nice font. Parenthesis are growing on me.  
 FREE
 ![B612 Mono](screenshots/B612-Mono.png)
+
+[Baloo Bhaijaan 2](https://fonts.google.com/specimen/Baloo+Bhaijaan+2)  
+Rating: null  
+null  
+FREE  
+![Baloo Bhaijaan 2]()
 
 [Cartograph CF](https://connary.com/cartograph.html)  
 Rating: N/A  
@@ -50,7 +82,8 @@ FREE
 ![Cascadia Mono Semilight](screenshots/Cascadia-Mono-Semilight.png)
 
 [CMU Typewriter Text](https://www.cufonfonts.com/font/cmu-typewriter-text)  
-Rating: 8.5  
+Rating: 9.5  
+The light and light italic variations are my personal favorites.  
 FREE  
 ![CMU-Typewriter-Text]()
 
@@ -98,6 +131,36 @@ The most starred font on Github. Solid choice.
 FREE
 ![Fira-Code](screenshots/Fira-Code.png)
 
+[Fuzzy Bubbles](https://fonts.google.com/specimen/Fuzzy+Bubbles)  
+Rating: null  
+null  
+FREE  
+![]()
+
+[Genos](https://fonts.google.com/specimen/Genos)  
+Rating: null  
+null  
+FREE  
+![]()
+
+[Gilory]()  
+Rating: null  
+null  
+FREE?  
+![Gilroy]()
+
+[Gowun Batang](https://fonts.google.com/specimen/Gowun+Batang)  
+Rating: null  
+null  
+FREE  
+![]()
+
+[Greycliff](https://connary.com/greycliff.html)  
+Rating: null  
+null  
+PAID  
+![]()
+
 [Hack](https://github.com/source-foundry/Hack)  
 Rating: 9  
 The second most starred font on Github. Close competitor to Fira Code.  
@@ -124,6 +187,12 @@ Rating: 8.5
 Good font. Default on all Jetbrain IDE's.  
 FREE
 ![Jetbrains-Mono](screenshots/Jetbrains-Mono.png)
+
+[Lab Grotesque]()  
+Rating: null  
+null  
+null  
+![]()
 
 [Liberation Mono](https://www.fontsquirrel.com/fonts/liberation-mono)  
 Rating: 8.5
@@ -183,6 +252,16 @@ Rating: 8
 FREE  
 ![Overpass Mono](screenshots/Overpass-Mono.png)
 
+[Poppins]()  
+Rating: null  
+null  
+![Poppins]()
+
+[Proxima Nova Rg]()  
+Rating: null  
+null  
+![]()
+
 [PT Mono](https://fonts.adobe.com/fonts/pt-mono)  
 Rating: 9.5  
 This was the font I used before switching to Comic Mono.  
@@ -211,6 +290,12 @@ Similar to the comic-* family fonts. Semicasual might be the best.
 FREE  
 ![]()
 
+[Red Hat](https://fonts.google.com/specimen/Red+Hat+Mono)  
+Rating: null  
+null  
+FREE
+![]()
+
 [SF Mono](https://developer.apple.com/fonts/)  
 Rating: 9.5  
 This is the font on Apple devices.  
@@ -228,7 +313,19 @@ FREE
 [Share Tech Mono](https://fonts.google.com/specimen/Share+Tech+Mono)  
 Rating:  
 FREE
-!
+![]()
+
+[Sharp Geotesk Book 20](https://sharptype.co/typefaces/sharp-grotesk/)  
+Rating: null  
+null  
+PAID  
+![]()
+
+[Sora](https://fonts.google.com/specimen/Sora)  
+Rating: null  
+null  
+FREE  
+![]()
 
 [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)  
 Rating: N/A  
